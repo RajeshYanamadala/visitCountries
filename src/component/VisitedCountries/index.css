@@ -1,0 +1,29 @@
+.image {
+  height: 150px;
+  width: 300px;
+}
+.text-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-list {
+  list-style: none;
+  width: 300px;
+  margin-right: 10px;
+}
+.remove-btn {
+  height: 30px;
+  width: 60px;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+.name {
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #ffffff;
+}

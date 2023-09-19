@@ -1,0 +1,38 @@
+.visit-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 40px;
+  border: 1px solid #cbd5e1;
+  padding-left: 40px;
+  align-items: center;
+  background-color: #1f1f2f;
+}
+.btn-active {
+  background-color: #3b82f6;
+  color: #ffffff;
+  height: 30px;
+  width: 60px;
+  border-radius: 5px;
+  border: 0px;
+  font-size: 14px;
+  font-family: 'roboto';
+}
+.btn {
+  background-color: transparent;
+  color: #334155;
+  height: 30px;
+  width: 60px;
+  border-radius: 5px;
+  border: 0px;
+  font-size: 14px;
+  font-family: 'roboto';
+}
+.country-name {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'roboto';
+}
+.country-visit {
+  height: 40vh;
+}
